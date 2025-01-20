@@ -45,3 +45,30 @@ devolvendo o valor para a carteira do usuário remetente.
 <li>O sistema deve seguir o padrão RESTful.</li>
 
 </ul>
+
+<h3>Endpoint de transferência</h3>
+
+<p>Você pode implementar o que achar mais conveniente, mas vamos focar somente no fluxo de transferência entre dois 
+usuários. A implementação deve seguir o contrato abaixo:
+</p>
+
+```http
+POST /transfer  
+Content-Type: application/json  
+
+{  
+  "value": 100.0,  
+  "payer": 4,  
+  "payee": 15  
+}
+```
+
+<h3>O que será avaliado e valorizamos ❤️</h3>
+
+<ul>
+<li>Organização do código: clareza e estrutura.</li>
+<li>Manutenibilidade: facilidade para ajustes futuros.</li>
+<li>Adesão aos requisitos: o quanto o sistema atende o que foi solicitado.</li>
+<li>Criatividade: ideias para melhorar ou complementar a solução.</li>
+<li>Boa prática de desenvolvimento: uso correto de conceitos e padrões.</li>
+</ul>
