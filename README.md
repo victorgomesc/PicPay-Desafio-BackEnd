@@ -36,7 +36,8 @@ devolvendo o valor para a carteira do usuário remetente.
 <li>Notificações:</li>
 
 <li>Após receber o pagamento, o usuário ou lojista deve ser notificado.</li>
-<li>A notificação pode ser enviada por e-mail, SMS ou outro serviço terceirizado. Caso o serviço de notificação esteja indisponível ou instável, deve-se usar o seguinte mock para simular a notificação: https://util.devi.tools/api/v1/notify. </li>
+<li>A notificação pode ser enviada por e-mail, SMS ou outro serviço terceirizado. </li>
+<li>Caso o serviço de notificação esteja indisponível ou instável, deve-se usar o seguinte mock para simular a notificação: https://util.devi.tools/api/v1/notify. </li>
 <li>A simulação deve ser feita utilizando o verbo POST.</li>
 <li>Requisito técnico:</li>
 
