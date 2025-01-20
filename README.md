@@ -12,7 +12,8 @@ possuem uma carteira virtual para gerenciar seu saldo e realizar transferências
 
 <p>Abaixo estão as regras de negócio importantes para o funcionamento do PicPay Simplificado:</p>
 <ul>
-<li>Cadastro único por CPF/CNPJ ou e-mail:<li>
+  
+<li>Cadastro único por CPF/CNPJ ou e-mail:</li>
 
 <li>Ambos os tipos de usuários devem informar Nome Completo, CPF, e-mail e Senha.</li>
 <li>CPF/CNPJ e e-mails devem ser únicos no sistema, ou seja, o sistema deve impedir múltiplos cadastros com o mesmo CPF ou endereço de e-mail.</li>
