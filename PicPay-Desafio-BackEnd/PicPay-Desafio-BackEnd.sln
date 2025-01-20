@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPay-Desafio-BackEnd", "PicPay-Desafio-BackEnd.csproj", "{7C4079B6-9E3A-9959-C207-3DC4055043EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4079B6-9E3A-9959-C207-3DC4055043EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4079B6-9E3A-9959-C207-3DC4055043EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4079B6-9E3A-9959-C207-3DC4055043EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4079B6-9E3A-9959-C207-3DC4055043EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {445F2E79-A4BA-48A9-9AF6-A5C984EF9563}
+	EndGlobalSection
+EndGlobal
